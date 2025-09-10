@@ -102,7 +102,7 @@ function App() {
 							<img
 								src="/images/hero-img.png"
 								alt="beautiful woman with a glowing skin care"
-								className="absolute bottom-0 right-0 2xl:right-58 translate-x-0 w-[650px] h-[690px]"
+								className="absolute bottom-0 right-0 2xl:right-38 translate-x-0 w-[650px] h-[690px]"
 							/>
 						</div>
 					</div>
